@@ -1,0 +1,62 @@
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.exe.config
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.exe
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.pdb
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csprojAssemblyReference.cache
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\MainWindow.g.cs
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\App.g.cs
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System_MarkupCompile.cache
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System_MarkupCompile.lref
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\MainWindow.baml
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.g.resources
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book_Library_System.Properties.Resources.resources
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csproj.GenerateResource.cache
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.exe
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.pdb
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Add Items.g.cs
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Library.g.cs
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Add Items.baml
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Library.baml
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Whish List.g.cs
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Whish List.baml
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.exe.config
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.exe
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.pdb
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csprojAssemblyReference.cache
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Add Items.g.cs
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Library.g.cs
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\MainWindow.g.cs
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Whish List.g.cs
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\App.g.cs
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System_MarkupCompile.cache
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System_MarkupCompile.lref
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Add Items.baml
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Library.baml
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\MainWindow.baml
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Whish List.baml
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.g.resources
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book_Library_System.Properties.Resources.resources
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csproj.GenerateResource.cache
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.exe
+C:\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.pdb
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.exe.config
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.exe
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\bin\Debug\Book Library System.pdb
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csproj.AssemblyReference.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csproj.SuggestedBindingRedirects.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Add Items.g.cs
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Library.g.cs
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\MainWindow.g.cs
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Whish List.g.cs
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\App.g.cs
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System_MarkupCompile.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System_MarkupCompile.lref
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Add Items.baml
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Library.baml
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\MainWindow.baml
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Whish List.baml
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.g.resources
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book_Library_System.Properties.Resources.resources
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csproj.GenerateResource.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.csproj.CoreCompileInputs.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.exe
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Book Library System\Book Library System\obj\Debug\Book Library System.pdb
